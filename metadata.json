@@ -1,0 +1,6 @@
+{
+  "name": "El Basha Sea Trips — Hurghada & Red Sea Tours",
+  "description": "Discover the beauty of the Red Sea with unforgettable sea trips, island excursions, snorkeling adventures, and luxury yacht charters in Hurghada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
