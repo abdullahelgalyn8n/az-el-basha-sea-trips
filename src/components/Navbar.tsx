@@ -61,7 +61,7 @@ export const Navbar: React.FC<NavbarProps> = ({
   const fullShareUrl =
     typeof window !== 'undefined'
       ? `${window.location.origin}${currentRoute.path}`
-      : `https://elbashaseatrips.com${currentRoute.path}`;
+      : `https://az-el-basha-sea-trips.pages.dev${currentRoute.path}`;
 
   const handleCopyLink = () => {
     if (typeof navigator !== 'undefined' && navigator.clipboard) {
